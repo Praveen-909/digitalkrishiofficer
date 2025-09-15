@@ -1,0 +1,99 @@
+{
+  "app": {
+    "title": "ഡിജിറ്റൽ കൃഷി ഓഫീസർ",
+    "subtitle": {
+      "farmer": "AI അധിഷ്ഠിത കർഷക സഹായ സംവിധാനം",
+      "officer": "കൃഷി ഓഫീസർ പോർട്ടൽ",
+      "admin": "ബ്ലോക്ക് അഡ്മിനിസ്ട്രേറ്റർ ഡാഷ്ബോർഡ്"
+    }
+  },
+  "auth": {
+    "welcome": "സ്വാഗതം",
+    "selectUserType": "ഉപയോക്തൃ തരം തിരഞ്ഞെടുക്കുക",
+    "farmer": "കർഷകൻ",
+    "officer": "കൃഷി ഓഫീസർ",
+    "admin": "അഡ്മിനിസ്ട്രേറ്റർ",
+    "login": "ലോഗിൻ",
+    "logout": "ലോഗൗട്ട്",
+    "phone": "ഫോൺ നമ്പർ",
+    "email": "ഇമെയിൽ",
+    "password": "പാസ്‌വേഡ്",
+    "confirmPassword": "പാസ്‌വേഡ് സ്ഥിരീകരിക്കുക",
+    "sendOtp": "OTP അയയ്ക്കുക",
+    "verifyOtp": "OTP സ്ഥിരീകരിക്കുക",
+    "resendOtp": "OTP വീണ്ടും അയയ്ക്കുക",
+    "otpPlaceholder": "6 അക്ക OTP നൽകുക",
+    "phonePlaceholder": "നിങ്ങളുടെ ഫോൺ നമ്പർ നൽകുക",
+    "emailPlaceholder": "നിങ്ങളുടെ ഇമെയിൽ നൽകുക",
+    "passwordPlaceholder": "നിങ്ങളുടെ പാസ്‌വേഡ് നൽകുക",
+    "forgotPassword": "പാസ്‌വേഡ് മറന്നോ?",
+    "createAccount": "അക്കൗണ്ട് സൃഷ്ടിക്കുക",
+    "alreadyHaveAccount": "ഇതിനകം അക്കൗണ്ടുണ്ടോ?",
+    "dontHaveAccount": "അക്കൗണ്ടില്ലേ?",
+    "signIn": "സൈൻ ഇൻ",
+    "signUp": "സൈൻ അപ്പ്"
+  },
+  "language": {
+    "select": "ഭാഷ തിരഞ്ഞെടുക്കുക",
+    "english": "ഇംഗ്ലീഷ്",
+    "malayalam": "മലയാളം",
+    "switch": "ഭാഷ മാറ്റുക"
+  },
+  "messages": {
+    "otpSent": "{{phone}} ലേക്ക് OTP അയച്ചു",
+    "invalidOtp": "തെറ്റായ OTP. വീണ്ടും ശ്രമിക്കുക.",
+    "loginSuccess": "ലോഗിൻ വിജയകരം!",
+    "loginError": "ലോഗിൻ പരാജയപ്പെട്ടു. വീണ്ടും ശ്രമിക്കുക.",
+    "phoneRequired": "ഫോൺ നമ്പർ ആവശ്യമാണ്",
+    "emailRequired": "ഇമെയിൽ ആവശ്യമാണ്",
+    "passwordRequired": "പാസ്‌വേഡ് ആവശ്യമാണ്",
+    "invalidPhone": "സാധുവായ ഫോൺ നമ്പർ നൽകുക",
+    "invalidEmail": "സാധുവായ ഇമെയിൽ നൽകുക",
+    "passwordTooShort": "പാസ്‌വേഡിൽ കുറഞ്ഞത് 6 അക്ഷരങ്ങൾ വേണം",
+    "otpExpired": "OTP കാലഹരണപ്പെട്ടു. പുതിയത് ആവശ്യപ്പെടുക.",
+    "tooManyAttempts": "വളരെയധികം ശ്രമങ്ങൾ. കുറച്ച് സമയത്തിന് ശേഷം ശ്രമിക്കുക."
+  },
+  "profile": {
+    "setup": "പ്രൊഫൈൽ സജ്ജീകരണം",
+    "personalInfo": "വ്യക്തിഗത വിവരങ്ങൾ",
+    "farmInfo": "കൃഷി വിവരങ്ങൾ",
+    "name": "പൂർണ്ണ നാമം",
+    "panchayat": "പഞ്ചായത്ത്",
+    "district": "ജില്ല",
+    "primaryCrops": "പ്രധാന വിളകൾ",
+    "landSize": "സ്ഥലത്തിന്റെ വലിപ്പം (ഏക്കർ)",
+    "farmingExperience": "കൃഷി പരിചയം (വർഷം)",
+    "save": "സേവ് ചെയ്യുക",
+    "skip": "ഇപ്പോൾ വേണ്ട"
+  },
+  "navigation": {
+    "dashboard": "ഡാഷ്‌ബോർഡ്",
+    "query": "ചോദ്യം ചോദിക്കുക",
+    "knowledge": "അറിവ് കേന്ദ്രം",
+    "escalation": "സഹായം",
+    "analytics": "വിശകലനം",
+    "subsidiary": "സബ്സിഡികൾ",
+    "profile": "പ്രൊഫൈൽ"
+  },
+  "dashboard": {
+    "welcomeBack": "തിരികെ സ്വാഗതം",
+    "recentQueries": "സമീപകാല ചോദ്യങ്ങൾ",
+    "weatherAlert": "കാലാവസ്ഥാ മുന്നറിയിപ്പ്",
+    "recommendations": "ഇന്നത്തെ ശുപാർശകൾ"
+  },
+  "query": {
+    "askQuestion": "നിങ്ങളുടെ ചോദ്യം ചോദിക്കുക",
+    "typeHere": "ഇവിടെ നിങ്ങളുടെ ചോദ്യം ടൈപ്പ് ചെയ്യുക...",
+    "orUseVoice": "അല്ലെങ്കിൽ ശബ്ദ ഇൻപുട്ട് ഉപയോഗിക്കുക",
+    "uploadImage": "ചിത്രം അപ്‌ലോഡ് ചെയ്യുക",
+    "submit": "സമർപ്പിക്കുക",
+    "processing": "പ്രോസസ്സിംഗ്...",
+    "confidence": "ആത്മവിശ്വാസം",
+    "sources": "ഉറവിടങ്ങൾ",
+    "helpful": "ഇത് സഹായകരമായിരുന്നോ?",
+    "yes": "അതെ",
+    "no": "ഇല്ല",
+    "escalate": "വിദഗ്ധ സഹായം ആവശ്യമുണ്ടോ?",
+    "speakAnswer": "ഓഡിയോ കേൾക്കുക"
+  }
+}

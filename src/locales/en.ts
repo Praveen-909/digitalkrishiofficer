@@ -1,0 +1,99 @@
+export const enTranslations = {
+  app: {
+    title: "Digital Krishi Officer",
+    subtitle: {
+      farmer: "AI-Powered Farmer Advisory System",
+      officer: "Agricultural Officer Portal",
+      admin: "Block Administrator Dashboard"
+    }
+  },
+  auth: {
+    welcome: "Welcome",
+    selectUserType: "Select User Type",
+    farmer: "Farmer",
+    officer: "Agricultural Officer",
+    admin: "Administrator",
+    login: "Login",
+    logout: "Logout",
+    phone: "Phone Number",
+    email: "Email",
+    password: "Password",
+    confirmPassword: "Confirm Password",
+    sendOtp: "Send OTP",
+    verifyOtp: "Verify OTP",
+    resendOtp: "Resend OTP",
+    otpPlaceholder: "Enter 6-digit OTP",
+    phonePlaceholder: "Enter your phone number",
+    emailPlaceholder: "Enter your email",
+    passwordPlaceholder: "Enter your password",
+    forgotPassword: "Forgot Password?",
+    createAccount: "Create Account",
+    alreadyHaveAccount: "Already have an account?",
+    dontHaveAccount: "Don't have an account?",
+    signIn: "Sign In",
+    signUp: "Sign Up"
+  },
+  language: {
+    select: "Select Language",
+    english: "English",
+    malayalam: "Malayalam",
+    switch: "Switch Language"
+  },
+  messages: {
+    otpSent: "OTP sent to {{phone}}",
+    invalidOtp: "Invalid OTP. Please try again.",
+    loginSuccess: "Login successful!",
+    loginError: "Login failed. Please try again.",
+    phoneRequired: "Phone number is required",
+    emailRequired: "Email is required",
+    passwordRequired: "Password is required",
+    invalidPhone: "Please enter a valid phone number",
+    invalidEmail: "Please enter a valid email address",
+    passwordTooShort: "Password must be at least 6 characters",
+    otpExpired: "OTP has expired. Please request a new one.",
+    tooManyAttempts: "Too many attempts. Please try again later."
+  },
+  profile: {
+    setup: "Profile Setup",
+    personalInfo: "Personal Information",
+    farmInfo: "Farm Information",
+    name: "Full Name",
+    panchayat: "Panchayat",
+    district: "District",
+    primaryCrops: "Primary Crops",
+    landSize: "Land Size (acres)",
+    farmingExperience: "Years of Experience",
+    save: "Save Profile",
+    skip: "Skip for Now"
+  },
+  navigation: {
+    dashboard: "Dashboard",
+    query: "Ask Question",
+    knowledge: "Knowledge Base",
+    escalation: "Support",
+    analytics: "Analytics",
+    subsidiary: "Subsidies",
+    profile: "Profile"
+  },
+  dashboard: {
+    welcomeBack: "Welcome back",
+    recentQueries: "Recent Queries",
+    weatherAlert: "Weather Alert",
+    recommendations: "Today's Recommendations"
+  },
+  query: {
+    askQuestion: "Ask Your Question",
+    typeHere: "Type your question here...",
+    orUseVoice: "Or use voice input",
+    uploadImage: "Upload Image",
+    submit: "Submit",
+    processing: "Processing...",
+    confidence: "Confidence",
+    sources: "Sources",
+    helpful: "Was this helpful?",
+    yes: "Yes",
+    no: "No",
+    escalate: "Need Expert Help?",
+    speakAnswer: "Play Audio"
+  }
+};
